@@ -1,0 +1,1 @@
+The same thing in the readme file but this ine im doing it on my own to see if i can actually do it and also test out the GIT ADD Feature which is supposed to add all files in the current directory in the staging area
